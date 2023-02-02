@@ -1,0 +1,6 @@
+# VS Code cache/options directories
+.vs/
+
+# Data files
+client/data.csv
+client/output.txt
