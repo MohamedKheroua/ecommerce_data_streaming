@@ -20,3 +20,6 @@ There will be a last part which consists in visualising the documents (stored in
 - create the Python script to be able to process the data into Spark from Kafka and to write it in MongoDB
 - create the input client API, used to retrieve the original data and send it to the ingest API
 - create and run the Streamlit app, used to visualise our data
+
+## Contact
+Please feel free to contact me if you have any questions : [Contact me](mailto:mohamedrkheroua@gmail.com)
